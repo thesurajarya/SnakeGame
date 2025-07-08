@@ -2,7 +2,7 @@ This classic **Snake Game** using pure Java and a bit of Swing magic 🧙‍♂�
 
 You control a funky green snake 🐍 slithering around the screen, gobbling up juicy red apples 🍎 like it’s starving after a long day. Every time you eat an apple, you grow longer — but don’t get too greedy or you’ll crash into yourself like a noob 😂💥.
 
-**🎮 Controls?** Arrow keys, baby! ⬅️⬆️⬇️➡️
+**🎮 Controls?** Arrow keys,⬅️⬆️⬇️➡️
 **🎯 Goal?** Eat. Grow. Survive. Repeat.
 
 Features:
